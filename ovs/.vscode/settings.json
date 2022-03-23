@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "unixctl.h": "c",
+        "nicira-ext.h": "c",
+        "random": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "optional": "c",
+        "new": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "utility": "c",
+        "complex": "c",
+        "*.inc": "cpp"
+    }
+}
